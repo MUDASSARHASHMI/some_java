@@ -1,1 +1,1 @@
-# some_java
+# Repo to prectice Ant with Jenkins
